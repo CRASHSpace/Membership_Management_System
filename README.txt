@@ -1,5 +1,4 @@
-go away!
-
+This is just a skeleton. Does not yet function.
 
 This system automates part of the process of handling membership payments.
 This is Phase 1: Basic Automation
