@@ -25,5 +25,11 @@ Coming Soon:
 ** If so twice already, send nastiest gram (update db with info on nastygram) (they must be acted upon manually)
 * System notices canceled payment (must be acted upon manually)
 
+TO DO:
+* Files must be cleaned before being loaded (check for commas, remove crap from end of file, remove ^M)
+
+
+
+
 
 
